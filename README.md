@@ -12,7 +12,7 @@ We are also making use of the following libraries/frameworks:
 * SweetAlert - http://t4t5.github.io/sweetalert/
 * SteamAuthentication - https://github.com/SmItH197/SteamAuthentication
 
-In addition to the website, we are also making use of a custom version of [Jessecar96's Steam Bot](https://github.com/Jessecar96/SteamBot), which can be found [here](https://github.com/ztizzlegaming/SteamBot), and is written in C#.
+In additional to the website, we are also making use of a custom version of [Jessecar96's Steam Bot](https://github.com/Jessecar96/SteamBot), which can be found [here](https://github.com/ztizzlegaming/SteamBot), and is written in C#.
 
 ### How to setup this project for my own use?
 If you would like to setup this project for your own project, there are a couple of steps you must follow:
